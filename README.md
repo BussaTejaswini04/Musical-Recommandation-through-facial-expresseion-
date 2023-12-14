@@ -1,6 +1,4 @@
-emotion based music built by using mediapipe and keras. also opencv and streamlit is used to create a webapp. for capturing the webcam in the browser i used streamlit-webrtc module.
-Domain of the Project Artificial intelligence based project
-Title of the Project Emotion based music system by using facial 
+Title of the Project :  Emotion based music system by using facial 
 expression algorithm
 Year/Sem III Year V Semester
 Name of the Guide&
